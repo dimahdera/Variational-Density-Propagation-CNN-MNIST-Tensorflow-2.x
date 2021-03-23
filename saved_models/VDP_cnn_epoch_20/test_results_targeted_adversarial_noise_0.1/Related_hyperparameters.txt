@@ -1,0 +1,20 @@
+ Input Dimension : 28
+ No of Kernels : [32]
+ Number of Classes : 10
+ No of epochs : 20
+ Initial Learning rate : 0.001
+ Ending Learning rate : 0.0001
+ kernels Size : [5]
+ Max pooling Size : [2]
+ Max pooling stride : [2]
+ batch size : 100
+ KL term factor : 0.01
+---------------------------------
+ Averaged Test Accuracy : 0.9435000032186508
+ Output Variance: 13.510216119350149
+---------------------------------
+ Adversarial attack: TARGETED
+ The targeted attack class: 3
+ Adversarial Noise epsilon: 0.1
+ SNR: 12.12118346695269
+---------------------------------

@@ -1,0 +1,18 @@
+ Input Dimension : 28
+ No of Kernels : [32]
+ Number of Classes : 10
+ No of epochs : 20
+ Initial Learning rate : 0.001
+ Ending Learning rate : 0.0001
+ kernels Size : [5]
+ Max pooling Size : [2]
+ Max pooling stride : [2]
+ batch size : 100
+ KL term factor : 0.01
+---------------------------------
+ Test Accuracy : 0.9398000037670136
+ Output Variance: 42.25111797268084
+---------------------------------
+ Random Noise std: 0.3
+ SNR: 0.7328000111523532
+---------------------------------
